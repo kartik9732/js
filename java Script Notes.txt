@@ -1,0 +1,24 @@
+variable=>
+var=
+let=
+const=
+DATA TYPE=>
+String
+boolean
+Number
+Undefind
+
+//to check data type
+console.log(typeof variable name);
+
+//copy the path of the file 
+//next node filename.js
+
+//in java 
+1.path
+2.javac filename.java
+3.java fileName.java
+
+
+
+
